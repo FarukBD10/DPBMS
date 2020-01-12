@@ -1,0 +1,23 @@
+ 
+    	.navbar {
+    background-color:#46134b;
+  }
+  .navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+  }
+   .navbar-nav li a:hover, .navbar-nav li.active a {
+    color: red ;
+    background-color:black;
+  }
+  .jumbotron {
+      background-color:red;
+      color: #fff;
+      border-radius:0;
+      padding:100px 25px;
+      font-family: Montserrat, sans-serif;
+      height: 450px;
+      margin-bottom: 0;
+
+
+    }
+    
